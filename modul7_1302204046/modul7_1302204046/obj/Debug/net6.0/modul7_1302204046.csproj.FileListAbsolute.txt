@@ -1,0 +1,17 @@
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\bin\Debug\net6.0\modul7_1302204046.exe
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\bin\Debug\net6.0\modul7_1302204046.deps.json
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\bin\Debug\net6.0\modul7_1302204046.runtimeconfig.json
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\bin\Debug\net6.0\modul7_1302204046.dll
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\bin\Debug\net6.0\modul7_1302204046.pdb
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\obj\Debug\net6.0\modul7_1302204046.csproj.AssemblyReference.cache
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\obj\Debug\net6.0\modul7_1302204046.GeneratedMSBuildEditorConfig.editorconfig
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\obj\Debug\net6.0\modul7_1302204046.AssemblyInfoInputs.cache
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\obj\Debug\net6.0\modul7_1302204046.AssemblyInfo.cs
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\obj\Debug\net6.0\modul7_1302204046.csproj.CoreCompileInputs.cache
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\obj\Debug\net6.0\modul7_1302204046.csproj.CopyComplete
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\obj\Debug\net6.0\modul7_1302204046.dll
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\obj\Debug\net6.0\refint\modul7_1302204046.dll
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\obj\Debug\net6.0\modul7_1302204046.pdb
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\obj\Debug\net6.0\modul7_1302204046.genruntimeconfig.cache
+C:\College\Programming\Konstruksi Perangkat Lunak\Perkuliahan\modul7_1302204046\modul7_1302204046\obj\Debug\net6.0\ref\modul7_1302204046.dll
